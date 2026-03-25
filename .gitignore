@@ -1,0 +1,23 @@
+# env file
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit cache
+.streamlit/
+
+# vscode
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# virtual env
+venv/
+env/
